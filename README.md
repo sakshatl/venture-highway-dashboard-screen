@@ -1,4 +1,12 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Getting Started 
+
+1. Download zip or take a clone of the using [git](https://git-scm.com/). `git clone https://github.com/sakshatl/venture-highway-dashboard-screen.git`
+2. Make sure you have [npm](https://www.npmjs.com/) or [yarn](https://classic.yarnpkg.com/lang/en/) installed. 
+3. Go to the downloaded/cloned project repo and perform a `yarn install` or `npm install`. It will install all the dependencies defined in a `package.json` file.
+4. Atlast, perform a `yarn start` or `npm start`. This will run the app in development mode on [localhost port 3000]( http://localhost:3000 ).
+
 
 ## Available Scripts
 
