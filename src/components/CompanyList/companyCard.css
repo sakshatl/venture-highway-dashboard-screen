@@ -1,0 +1,31 @@
+/*STYLES FOR EACH CARD*/
+.companyCard{
+    border: 1px solid #eeeeee;
+    padding: 15px;
+}
+.cardHeader{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+.companyTitle{
+    font-size: 18px;
+}
+.companySubtitle{
+    font-size: 12px;
+    color: grey;
+}
+.cardContent{
+    margin-top: 50px;
+}
+.companyStatus{
+    font-size: 14px;
+}
+.companyContent{
+    font-size: 13px;
+    color: #4d4d4d;
+}
+.cardFooter{
+    margin-top: 30px;
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+}

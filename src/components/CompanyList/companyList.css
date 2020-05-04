@@ -1,0 +1,12 @@
+.companyList{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 20px;
+    grid-row-gap: 20px;
+}
+
+@media only screen and (max-width: 800px) {
+    .companyList{
+        display: block;
+    }
+}
